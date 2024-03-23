@@ -1,0 +1,37 @@
+[
+    {
+        "codigo":1200,
+        "nombre":"Pan Artesanal",
+        "precio":"10.000 pesos",
+        "categoria":"Parva",
+        "peso":"340 gm"
+    },
+    {
+        "codigo":1300,
+        "nombre":"Leche de Almendra",
+        "precio":"15.000 pesos",
+        "categoria":"Lacteos",
+        "peso":"2 Lt"
+    },
+    {
+        "codigo":1400,
+        "nombre":"Frijoles",
+        "precio":"3.500 pesos",
+        "categoria":"Granos",
+        "peso":"1 Lb"
+    },
+    {
+        "codigo":1500,
+        "nombre":"Limpiador Multiusos",
+        "precio":"8.000 pesos",
+        "categoria":"Aseo",
+        "peso":"1000 ml"
+    },
+    {
+        "codigo":1600,
+        "nombre":"Chocolatina Jet",
+        "precio":"2.000 pesos",
+        "categoria":"Dulces",
+        "peso":"60 gm"
+    }
+]
